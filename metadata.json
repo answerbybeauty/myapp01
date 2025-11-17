@@ -1,0 +1,5 @@
+{
+  "name": "Optimal Price & Banner Generator",
+  "description": "Search for a product's lowest price by barcode, calculate the optimal selling price based on cost and margin, and generate a promotional banner image.",
+  "requestFramePermissions": []
+}
